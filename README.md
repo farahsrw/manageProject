@@ -66,3 +66,5 @@ Proyek Backend Golang sederhana untuk Project Manager, dikembangkan dengan mengg
 3. ID invalid
 ![image](https://github.com/user-attachments/assets/34d02792-4b00-4557-becd-5af61a871ab5)
 
+# Referensi
+Referensi pembuatan projek ini mengacu pada https://github.com/m6io/web-dev-project-kanban-api-starter
